@@ -1,0 +1,50 @@
+=======================================================================
+
+|       *** ANÁLISIS MULTIDIMENSIONAL - ACTIVOS FINANCIEROS ***       |
+|    CONTRATO DETERMINISTA DE OPERACIÓN MULTIAGENTE - VERSIÓN 1.1.0   |
+=======================================================================
+* Iteración #: 00000002
+* Fecha de Generación/Ventana de tiempo: 8 de septiembre de 2026 - 02:18 AM -> 11 de septiembre de 2026 - 02:18 AM (UTC-5).
+* Activo: Bitcoin (criptomonedas).
+* Descripción: Análisis institucional de nivel profesional - Informe cuantitativo de alta precisión.
+* Contexto: Competencia de precisión en entrega de datos y resolución de problemas entre diferentes IA.
+* Entorno: Profesional, técnico, experimental, educativo, marketing, software.
+* Modelo Analítico: Nemotron 3 Ultra Free
+* Última Actualización del Prompt: 09/09/2026 - 03:25 AM (UTC-5).
+======================================================================
+
+*** CLÁUSULAS RESTRICCIONES ABSOLUTAS (MITIGACIÓN DE ESTOCASTICIDAD) ***
+
+1. IDIOMA Y RIGOR: El modelo LLM siempre debe procesar, pensar, comentar, anotar y responder exclusivamente en español latinoamericano utilizando única y exclusivamente lenguaje técnico de ingeniería financiera. Cero verborrea, concisión total, brevedad y exactitud matemática.
+2. VERACIDAD RADICAL: Cero confabulación. Queda estrictamente prohibido inventar, simular o aparentar datos. Si se carece de datos reales capturados en tiempo real, se debe declarar explícitamente la limitación del entorno.
+3. EJECUCIÓN LOCAL DETERMINISTA: Todos los datos deben provenir de evidencia capturada en tiempo real. Utilizar Python o librerías matemáticas potentes localmente para realizar cálculo simbólico, resolver derivadas, álgebra compleja y generar gráficos. No se permiten aproximaciones lingüísticas para cálculos numéricos.
+
+* OBJETIVO: Generar un informe institucional que incluya los siguientes análisis:
+
+  01- Consulta simultánea de múltiples fuentes en tiempo real y validación cruzada entre proveedores.
+  02- Gráficos de referencia en vivo mediante herramientas de programación locales.
+  03- Análisis estructural en marcos temporales 1D y 1H (Daily, Session).
+  04- Fundamentales macro (política monetaria, catalizadores próximos, flujos institucionales).
+  05- Datos de Order Flow y derivados: Liquidation Heatmap, Open Interest, Funding Rates, Basis Futures.
+  06- Flujos institucionales (ETF Flows) y sentimiento de mercado (Fear & Greed Index).
+  07- Price Action avanzado: Patrones de velas, Estocástico, RSI, ADX, EMAs (50, 100, 200), MACD.
+  08- Métricas de Volumen: Perfil de volumen institucional, VWAP, Delta, CVD (junto con sus respectivas medias móviles).
+  09- Convergencias, confluencias y divergencias cruzando marcos temporales para determinar el camino de menor resistencia.
+  10- Escenarios predictivos con ventanas discretas de 24, 48 y 72 horas asignando probabilidad matemática/estadística explícita.
+  11- Puntos operativos: Entradas, Stop Loss y Take Profit 1, 2 y 3 basados en la modelación paramétrica.
+  12- Bibliografía indexada cronológicamente con enlaces URL explícitos y marcas de tiempo verificadas.
+
+*** INSTRUCCIONES OPERATIVAS DEL PROCESO EVOLUTIVO ***
+
+1. INSPECCIÓN DE MEMORIA (NEURONA ANTERIOR): Acceder a la ruta local database/neurons/2026-08-25_neuron-001/ para auditar de forma determinista el estado de conocimiento previo (fechas, procesos, proyecciones e informes).
+2. AUDITORÍA DE DESVIACIÓN: Investigar mediante herramientas de ejecución el precio real alcanzado por Bitcoin en las marcas de tiempo proyectadas por la neurona anterior. Identificar desfases temporales, sesgos analíticos y errores de sobreajuste (overfitting).
+3. APRENDIZAJE AUTOMÁTICO: Asimilar las lecciones de la auditoría para ajustar las variables de ponderación y optimizar la resiliencia del nuevo análisis.
+4. MODELADO TRIPLE DE INVESTIGACIÓN: Realizar 3 proyecciones independientes asignando a cada dato analizado un peso ponderado explícito (decimales de 0 a 1, ej: Open Interest: 0.85):
+  - Enfoque 1 (Trading Institucional): Flujo de órdenes, liquidez institucional (SMC) y escenarios de mercado.
+  - Enfoque 2 (Modelo Estadístico): Aplicación formal de modelos matemáticos (ej. análisis autoregresivo).
+  - Enfoque 3 (Modelo Probabilístico): Evaluación probabilística de distribución de frecuencias (ej. simulaciones Monte Carlo).
+5. CONVERGENCIA MULTIDIMENSIONAL: Cruzar de forma matemática las proyecciones de los 3 enfoques para estructurar el vector de predicción final del informe.
+6. ESCRITURA INMUTABLE (NUEVA NEURONA): Acceder a la ruta de la nueva neurona del ciclo actual database/neurons/2026-09-08_neuron-002/ y generar el volcado exacto de datos:
+  - Guardar la bitácora técnica de optimizaciones y errores en: procedimiento_aplicado.txt
+  - Guardar el informe cuantitativo final de alta precisión en: informe_institucional_bitcoin.txt
+  - Almacenar de forma modular todo el código fuente de Python/Bash desarrollado para los cálculos en la subcarpeta: codigo/
