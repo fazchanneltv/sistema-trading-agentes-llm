@@ -1,0 +1,102 @@
+{
+  "btc_price": 78569.0,
+  "drawdown_from_ath": -37.7,
+  "range_24h": {
+    "low": 76591,
+    "high": 81731
+  },
+  "change_30d_pct": 21.14,
+  "rsi": {
+    "daily": 57.0,
+    "weekly": 59.0
+  },
+  "stochastic": {
+    "k": 45.0,
+    "d": 48.0
+  },
+  "adx": 35.0,
+  "bollinger": {
+    "pct_b": 0.552,
+    "bandwidth": 14.1
+  },
+  "atr_14": 2100.0,
+  "ema_distances": {
+    "ema20": 9.9,
+    "ema50": 15.5,
+    "ema100": 13.9,
+    "ema200": 7.6
+  },
+  "derivatives": {
+    "oi_total_b": 54.14,
+    "oi_change_24h": 1.66,
+    "funding_pct": 0.5071,
+    "cme_futures": 78820.0,
+    "basis_pct": 0.32,
+    "basis_annualized": 8.3
+  },
+  "etf_flows": {
+    "sep_mtd_m": 770.2,
+    "3week_m": 3800,
+    "aum_b": 99.9
+  },
+  "fear_greed": 73,
+  "on_chain": {
+    "sth_cb": 68500,
+    "tmn": 75800,
+    "supply_profit_pct": 68
+  },
+  "macro": {
+    "fed_rate": "3.50-3.75%",
+    "fed_hike_prob": "~50% Kalshi / ~58% CME",
+    "ecb_rate": "2.25%"
+  },
+  "score": {
+    "alcista_pct": 30.0,
+    "bajista_pct": 15.0,
+    "neutro_pct": 55.0
+  },
+  "monte_carlo_72h": {
+    "mean": 78599.0,
+    "std": 3648.0,
+    "p5": 72741.0,
+    "p50": 78518.0,
+    "p95": 84702.0,
+    "prob_above_82k": 17.7,
+    "prob_above_80k": 34.5,
+    "prob_below_76k": 24.4,
+    "prob_below_74k": 10.2,
+    "prob_below_72k": 3.2
+  },
+  "projections": {
+    "final_24h": 72572.0,
+    "final_72h": 78351.0
+  },
+  "levels": {
+    "pullback": {
+      "entry": 76500,
+      "sl": 74500,
+      "tp1": 79730,
+      "tp2": 82000,
+      "tp3": 84000,
+      "r_r_tp1": 1.6,
+      "r_r_tp2": 2.8,
+      "r_r_tp3": 3.8,
+      "prob_tp1": 60,
+      "prob_tp2": 40,
+      "prob_tp3": 25
+    },
+    "breakout": {
+      "entry": 80500,
+      "sl": 78500,
+      "tp1": 83000,
+      "tp2": 85000,
+      "tp3": 88000,
+      "r_r_tp1": 1.2,
+      "r_r_tp2": 2.2,
+      "r_r_tp3": 3.8,
+      "prob_tp1": 45,
+      "prob_tp2": 30,
+      "prob_tp3": 18
+    }
+  }
+}
