@@ -1,0 +1,22 @@
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales locales
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Archivos de sistema e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Bitacoras de ejecucion
+*.log
+.chroma/
